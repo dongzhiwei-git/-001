@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OnlineServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineServer_jar</output-path>
+    <root id="archive" name="OnlineServer.jar">
+      <element id="module-output" name="OnlineServer" />
+    </root>
+  </artifact>
+</component>

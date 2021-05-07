@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FOnlineClient:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b0b75a8-57fd-4267-9a86-3bd01b723750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljm7YvIAYvjBpOaHRbweeqidwf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/dzw/java/document/AI-Wuziqi-master (1)/Ai" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ctime\java\wzq\OnlineClient" />
+      <recent name="D:\ctime\java\wzq\FiarOnlineClient_v8" />
+      <recent name="D:\ctime\java\wzq\FiarOnlineClient_v8\src\lib" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Client" />
+      <module name="FOnlineClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.Ms" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wzq.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/wzq.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JAR Application.wzq.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b0b75a8-57fd-4267-9a86-3bd01b723750" name="Default Changelist" comment="" />
+      <created>1608118707572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608118707572</updated>
+      <workItem from="1608118714140" duration="7078000" />
+      <workItem from="1608184500837" duration="11889000" />
+      <workItem from="1608197902223" duration="397000" />
+      <workItem from="1608204257843" duration="1244000" />
+      <workItem from="1608210332107" duration="1544000" />
+      <workItem from="1608215949386" duration="2472000" />
+      <workItem from="1608360819985" duration="2568000" />
+      <workItem from="1608370090614" duration="2998000" />
+      <workItem from="1608446784775" duration="560000" />
+      <workItem from="1608447359041" duration="302000" />
+      <workItem from="1608460152508" duration="1815000" />
+      <workItem from="1608719931314" duration="2928000" />
+      <workItem from="1608723218173" duration="685000" />
+      <workItem from="1608724120372" duration="1506000" />
+      <workItem from="1608726376990" duration="5691000" />
+      <workItem from="1608733329127" duration="826000" />
+      <workItem from="1608800562874" duration="644000" />
+      <workItem from="1608819881189" duration="450000" />
+      <workItem from="1608880956681" duration="7842000" />
+      <workItem from="1608889573345" duration="1036000" />
+      <workItem from="1608894235583" duration="6127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608889704719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608889704719" />
+    <state x="698" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608889647877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1608889647877" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1608192121352">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1608192121352" />
+    <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1608118729957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608118729957" />
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608447247529">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608447247529" />
+    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1608897608278">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608897608278" />
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608889440945" />
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1608901296221">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608901296221" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608889634323" />
+    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1608901296220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608901296220" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608889634323" />
+    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1608901296220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608901296220" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608889634323" />
+    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1608901296221">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608901296221" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608889634323" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1608196478496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608196478496" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1608196478496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608196478496" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1608196478496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608196478496" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1608196478496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608196478496" />
+    <state x="352" y="14" key="SettingsEditor" timestamp="1608894448652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="352" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1608894448652" />
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1608731580833" />
+    <state x="493" y="200" key="run.anything.popup" timestamp="1608900803455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="493" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1608900803455" />
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608731960233" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1608902863393">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608902863393" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client/Client.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

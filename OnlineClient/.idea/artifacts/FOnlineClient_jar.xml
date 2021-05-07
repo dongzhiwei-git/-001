@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FOnlineClient:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/FOnlineClient_jar</output-path>
+    <root id="archive" name="FOnlineClient.jar">
+      <element id="module-output" name="FOnlineClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
